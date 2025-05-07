@@ -28,7 +28,7 @@ Give your tools a professional edge with a real Debian installer, ready to share
     or
 
     * sudo apt install ./dedsec-deb.deb
-    * dedsec-pirata
+    * dedsec-deb
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
