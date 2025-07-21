@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F028%2F192%2F557%2Foriginal%2Fcute-cartoon-kawaii-mushroom-sticker-clipart-ai-generated-free-png.png&f=1&nofb=1&ipt=f4e247d13a529da02ee14e977611670b39ec08e4736d4b9866eff9fd84e91c5b", width="300", height="300">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fflat-round-system%2F512%2Fdebian-1024.png&f=1&nofb=1&ipt=546c73e962ea5280a36a6406561caeef4f47bb67b713e7cdd732b981f6117329", width="300", height="300">
 </p>
 
 <h1 align="center">DEDSEC_DEB</h1>  
